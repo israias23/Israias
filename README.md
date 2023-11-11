@@ -1,7 +1,7 @@
 # Oiii! Eu sou o Israias 😉
 
-- Curso Engenharia de Software
-- Hoje trabalho como Aprendiz na Latam Airlines
+- 👨‍💻 Curso Engenharia de Software
+- ✈️ Hoje trabalho como Aprendiz na Latam Airlines
 
 <div>
   <a href="https://github.com/israias23/Israias">
